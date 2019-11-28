@@ -1,0 +1,9 @@
+**/.DS_store
+.deps
+.out
+.tmp
+node_modules
+.dist
+.lein-*
+package.json
+resources/
